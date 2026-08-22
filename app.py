@@ -1,3 +1,5 @@
+MESSAGE = "Adaptive Library System"
+
 def add(a, b):
     return a + b
 
